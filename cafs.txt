@@ -1,1 +1,3 @@
 verificando o versionamento.
+
+Deu tudo certo, estou aprendendo a "coisa".
